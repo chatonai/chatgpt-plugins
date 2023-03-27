@@ -1,4 +1,5 @@
-# Exploring the Possibilities: Innovative Uses of ChatGPT Plugins
+#  ChatGPT Plugins
+## Exploring the Possibilities: Innovative Uses of ChatGPT Plugins
 <p>One of the most typical limitations of ChatGPT is that this language model's training data serves as the only source of information, which can be outdated and not tailored to specific applications because the knowledge of ChatGPT is restricted to events that took place before September 2021. Additionally, language models only provide text as output, which may contain helpful instructions, but another process is needed to execute them.</p>
 <p>Up to now, ChatGPT initially allows some first plugins, which can assist this language model in improving this limitation by their help in many tasks such as accessing current information, performing calculations, or utilizing third-party services.</p>
 <p>It&rsquo;s time to find out the benefits of potential plugins for ChatGPT to understand why they are able to innovate ChatGPT&rsquo;s abilities.</p>
